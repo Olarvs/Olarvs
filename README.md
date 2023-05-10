@@ -7,10 +7,5 @@ It's been a hard day's night, I should be sleeping like a log <br/>
 <hr>
 But when I get home to you I'll find the things that you do <br/>
 <hr>
-Will make me feel alright.
+<strong>Will make me feel alright.</strong>
 </h4>
-<style>
-h4{
-  color: red;
-  }
-</style>
