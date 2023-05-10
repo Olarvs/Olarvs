@@ -2,7 +2,10 @@
 
 <h4>
 It's been a hard day's night, and I been working like a dog <br/>
+<hr style="margin: 3px;">
 It's been a hard day's night, I should be sleeping like a log <br/>
+<hr style="margin: 3px;">
 But when I get home to you I'll find the things that you do <br/>
+<hr style="margin: 3px;">
 Will make me feel alright.
 </h4>
