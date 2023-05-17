@@ -10,5 +10,15 @@ But when I get home to you I'll find the things that you do <br/>
 Will make me feel alright.
 <hr>
 </h4>
-
+<picture>
+<source 
+  srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Olarvs&langs_count=8&hide=html&show_icons=true&theme=dark&count_private=true&card_width=1000"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emannocum&langs_count=8&hide=html&show_icons=true&theme=dark&count_private=true&card_width=1000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emannocum&langs_count=8&hide=html&show_icons=true&theme=dark&count_private=true&card_width=1000"/>
+</picture> 
 
