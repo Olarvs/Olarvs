@@ -1,6 +1,6 @@
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/102523400/217305123-39ba95b3-c73f-4301-9d66-716a5824ca45.gif)
-<!-- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
- -->
+<!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/102523400/217305123-39ba95b3-c73f-4301-9d66-716a5824ca45.gif) -->
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 
 <p align="center"> 
 <!-- <a href=#><img src="contributions.svg"></a> -->
