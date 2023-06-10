@@ -25,7 +25,7 @@
 
 ## About Me
 
-Empleyado lamang sa mysoftwarekit at intern sa Solarich
+Software Developer at # MySoftwareKit & # Solarich
 
 
 ## Skills
