@@ -25,7 +25,7 @@
 
 ## About Me
 
-Wala lang
+Empleyado lamang sa mysoftwarekit at intern sa Solarich
 
 
 ## Skills
