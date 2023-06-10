@@ -16,14 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=emannocum&show_icons=true&count_private=true&card_width=1000"/>
 </picture> 
 <h4>
-It's been a hard day's night, and I been working like a dog <br/>
-<hr>
-It's been a hard day's night, I should be sleeping like a log <br/>
-<hr>
-But when I get home to you I'll find the things that you do <br/>
-<hr>
-Will make me feel alright.
-<hr>
+I am a witness to the ever-changing nature of growth because I am aware that I am not the person I was yesterday. Each passing day reveals new knowledge, reveals hidden ideas, and molds me into a person that transcends the boundaries of yesterday's self. I emerge as a new incarnation of wisdom, embracing the transformational power of knowledge and forever expanding the horizons of my life.
 </h4>
 <!-- <picture>
 <source 
