@@ -19,8 +19,6 @@
 
 # Hello, I'm Manuel Olarve 👋
 
-I am a witness to the ever-changing nature of growth because I am aware that <u><span style="color: #FF0000;">I am not the person I was yesterday</span></u>. Each passing day reveals new knowledge, reveals hidden ideas, and molds me into a person that transcends the boundaries of yesterday's self. I emerge as a new incarnation of wisdom, embracing the transformational power of knowledge and forever expanding the horizons of my life.
-
 </div>
 
 <br>
