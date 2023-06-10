@@ -15,9 +15,20 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=emannocum&show_icons=true&count_private=true&card_width=1000"/>
 </picture> 
-<h4>
-I am a witness to the ever-changing nature of growth because I am aware that <u>I am not the person I was yesterday</u>. Each passing day reveals new knowledge, reveals hidden ideas, and molds me into a person that transcends the boundaries of yesterday's self. I emerge as a new incarnation of wisdom, embracing the transformational power of knowledge and forever expanding the horizons of my life.
-</h4>
+<div align="center">
+
+# Hello, I'm [Your Name] 👋
+
+I am a witness to the ever-changing nature of growth because I am aware that <u><span style="color: #FF0000;">I am not the person I was yesterday</span></u>. Each passing day reveals new knowledge, reveals hidden ideas, and molds me into a person that transcends the boundaries of yesterday's self. I emerge as a new incarnation of wisdom, embracing the transformational power of knowledge and forever expanding the horizons of my life.
+
+</div>
+
+<br>
+
+## About Me
+
+...
+
 <!-- <picture>
 <source 
   srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=Olarvs&langs_count=8&hide=html&show_icons=true&theme=dark&count_private=true&card_width=1000"
