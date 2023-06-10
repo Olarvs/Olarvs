@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a Software Developer @SOLARICH and @MySoftwareKit! 
+Wala lang
 
 
 ## Skills
