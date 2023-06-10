@@ -25,7 +25,7 @@
 
 ## About Me
 
-Software Developer at # MySoftwareKit & # Solarich
+Software Developer at MySoftwareKit & Solarich
 
 
 ## Skills
