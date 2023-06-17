@@ -15,6 +15,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=emannocum&show_icons=true&count_private=true&card_width=1000"/>
 </picture> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olarvs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 <div align="center">
 
 # Hello, I'm Manuel Olarve 👋
