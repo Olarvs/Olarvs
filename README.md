@@ -16,6 +16,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=emannocum&show_icons=true&count_private=true&card_width=1000"/>
 </picture> 
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olarvs&theme=dark&background=000000)](https://git.io/streak-stats)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olarvs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align="center">
