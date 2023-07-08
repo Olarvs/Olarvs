@@ -30,7 +30,7 @@
 
 ## About Me
 
-Software Developer at MySoftwareKit & Solarich
+I am a freelance Software Developer
 
 
 ## Skills
