@@ -30,7 +30,7 @@
 
 ## About Me
 
-I am a freelance Software Developer
+I am a Aspiring Software Developer
 
 
 ## Skills
