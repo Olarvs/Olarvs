@@ -30,7 +30,7 @@
 
 ## About Me
 
-I am a Aspiring Software Developer
+Aspiring Web Developer
 
 
 ## Skills
