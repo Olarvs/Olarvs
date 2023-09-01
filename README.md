@@ -35,12 +35,10 @@ Aspiring Web Developer
 
 ## Skills
 
-- ReactJS
-- VueJS
-- NodeJS
-- .NET
-- Java
-- PHP (Laravel, Magento2)
+- Web Development
+- UI/UX
+- Graphic Design
+- Problem Solving
 
 ## Projects
 
