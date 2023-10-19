@@ -30,24 +30,25 @@
 
 ## About Me
 
-Aspiring Web Developer
+Software Developer
 
 
 ## Skills
 
-- Web Development
+- Software Development
 - UI/UX
 - Graphic Design
 - Problem Solving
 
-## Projects
+## Degree
 
-- Solaraze
-- Web-Bello
-- Three Brother's Grocery
-- Solarich
-- MySoftwareKit
+- Bachelor of Science in Information Technology
 
+## Related Work Experience
+
+- Software Developer at BookBit Tech Inc. [October 2023 - Present]
+- Web Developer Intern at Solarich Enterprises Corp. [April 2023 - August 2023]
+  
 ## Contact Me
 
 You can reach out to me via email at [manuelolarve@gmail.com](mailto:manuelolarve@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/manuelolarve).
