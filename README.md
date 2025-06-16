@@ -45,9 +45,11 @@ Software Developer
 - Bachelor of Science in Information Technology
 
 ## Related Work Experience
-- Web Developer at RRE Lunas Builders Enterprises Corp. [October 2024 - Present]
-- Software Developer at Xtreme Offshore Outsourcing Inc. / BookBit (Client) [October 2023 - October 2024]
-- Web Developer Intern at Solarich Enterprises Corp. [April 2023 - August 2023]
+- **Web Developer at RRE Lunas Builders Enterprises Corp.** [October 2024 - Present]
+  _GitHub usage was restricted during this time due to company and client confidentiality policies_.
+- **Software Developer at Xtreme Offshore Outsourcing Inc.** / BookBit (Client) [October 2023 - October 2024]
+  _GitHub usage was restricted during this time due to company and client confidentiality policies._
+- **Web Developer Intern at Solarich Enterprises Corp.** [April 2023 - August 2023]
   
 ## Contact Me
 
